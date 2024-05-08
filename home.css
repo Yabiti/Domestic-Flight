@@ -27,4 +27,6 @@ html{
 
 #form ul li {
     display: inline-block;
+    text-align: justify;
+    margin: 0 20px;
 }
