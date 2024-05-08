@@ -63,7 +63,13 @@ html{
 }
 
 
+#Book {
+    padding: 50px;
+    display: flex;
+    margin: 20px;
+}
 img {
     height: 300px;
-    width: 350px;
+    width: 250px;
+    display: flex;
 }
